@@ -1,6 +1,6 @@
 # Kaggle
 
-This repository provides all the Kaggle code written by me(if it's public...), including both the versions on Kaggle and the original versions. In the original versions, I will provide more details and a Chinese version(if I wrote it in Chinese orginally...). 
+This repository provides all the Kaggle code written by me(if it's public...), including both the versions on Kaggle and the original versions. In the original versions, I will provide more details and a Chinese version(if I wrote it in Chinese originally...). 
 
 Warm welcome to contact me at zeshentian1@gmail.com!
 
